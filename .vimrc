@@ -51,6 +51,7 @@ endif
 "author : woniu <peng_du2007@qq.com>
 "date : 2013-11-22
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set backspace=indent,eol,start
 "语法高亮
 syntax enable
 syntax on
