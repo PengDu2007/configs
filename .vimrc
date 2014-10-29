@@ -67,14 +67,14 @@ filetype plugin indent off
 "设置golang语法高亮
 "filetype off
 "filetype plugin indent off
-set runtimepath+=$HOME/.vim/vim-go
+"set runtimepath+=$HOME/.vim/vim-go
 "filetype plugin indent on
 "syntax on
 
 "设置markdown语法高亮
 "filetype off
 "filetype plugin indent off
-set runtimepath+=$HOME/.vim/vim-markdown
+"set runtimepath+=$HOME/.vim/vim-markdown
 
 
 filetype plugin indent on
