@@ -104,10 +104,10 @@ set scrolloff=3
 "colorscheme solarized
 
 " for molokai color
-"colorscheme molokai
+colorscheme molokai
 
 " for github color
-colorscheme github
+" colorscheme github
 set t_Co=256
 
 " vim-markdown
