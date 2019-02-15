@@ -11,7 +11,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 " vim go syntax start
-Plugin 'fatih/vim-go'
+" Plugin 'fatih/vim-go'
 " vim go syntax end
 
 " vim color scheme start
